@@ -3,7 +3,7 @@ A simple websocket proxy that allows you to tap into the local mental command st
 
 The proxy will automatically authorize and establish a mental command stream with the Emotiv BCI and then relay the data towards a port of your choice (default `:6969`).
 
-You must already have a Brain achine interface conencted to the Emotiv BCI before starting this proxy.
+You must already have a Brain machine interface conencted to the Emotiv BCI before starting this proxy.
 
 ```
 // start the server
