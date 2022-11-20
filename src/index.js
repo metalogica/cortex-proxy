@@ -13,6 +13,3 @@ websocketServer.on('connection', function connection(ws) {
 
   cortexClient.stream();
 });
-
-
-
